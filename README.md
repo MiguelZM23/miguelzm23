@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-![MiguelZM23-Banner](./img/front-image-github2.webp)
-original image by: 
+![MiguelZM23-Banner](./img/front-image-github2.webp) original image by: 
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelZM23&hide=issues&show_icons=truetrue&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelZM23&card_width=250&langs_count=6&layout=compact&theme=tokyonight)
 
 ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
