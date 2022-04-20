@@ -1,4 +1,9 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelZM23&hide=issues&show_icons=truetrue&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelZM23&card_width=250&langs_count=6&layout=compact&theme=tokyonight)
+
+
+
+
 
 <!--
 **MiguelZM23/miguelzm23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
