@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![MiguelZM23-Banner](./img/front-image-github.png)
+![MiguelZM23-Banner](./img/front-image-github2.webp)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelZM23&hide=issues&show_icons=truetrue&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelZM23&card_width=250&langs_count=6&layout=compact&theme=tokyonight)
 
